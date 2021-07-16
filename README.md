@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I went to a spelling bee contest once and was surprised to see people, yeah, a flop.
 
 Hola a todos 👋
+
 -Soy Yoobie7 :D
 - 🔭 Actualmente estoy trabajando en: nada, soy estudiante.
 -  Actualmente estoy aprendiendo: programación web, idk.
