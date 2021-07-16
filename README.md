@@ -19,4 +19,4 @@ Hola a todos 👋
 -  💬 Pregúntame sobre: lo que quieras.
 -  📫 Cómo comunicarse conmigo: por correo electrónico: ABoySoSad@gmail.com o en mi twitter @Yoongi_nx
 -  😄 Pronombres: ella.
--  ⚡ Dato curioso: una vez fui a un concurso de deletreo en inglés y me sorprendió ver a la gente, sí, un fracaso.
+-  ⚡ Dato curioso: una vez fui a un concurso de deletreo en inglés y me quedé callada al ver a la gente, sí, un fracaso.
