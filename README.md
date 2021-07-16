@@ -1,16 +1,21 @@
 ### Hi there 👋
+-I’m Yoobie7 :D
+- 🔭 I’m currently working on: nothing, i´m a student.
+- 🌱 I’m currently learning: web programming, idk.
+- 👯 I’m looking to collaborate on: a book, yes, I like to write.
+- 🤔 I’m looking for help with: nothing, I think haha.
+- 💬 Ask me about: what you want.
+- 📫 How to reach me: by email: ABoySoSad@gmail.com or on my twitter @Yoongi_nx
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I went to a spelling bee contest once and was surprised to see people, yeah, a flop.
 
-<!--
-**Yoobie7/Yoobie7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hola a todos 👋
+-Soy Yoobie7 :D
+- 🔭 Actualmente estoy trabajando en: nada, soy estudiante.
+-  Actualmente estoy aprendiendo: programación web, idk.
+-  👯 Busco colaborar en: un libro, sí, me gusta escribir.
+-  🤔 Busco ayuda con: nada, creo jaja.
+-  💬 Pregúntame sobre: lo que quieras.
+-  📫 Cómo comunicarse conmigo: por correo electrónico: ABoySoSad@gmail.com o en mi twitter @Yoongi_nx
+-  😄 Pronombres: ella.
+-  ⚡ Dato curioso: una vez fui a un concurso de deletreo en inglés y me sorprendió ver a la gente, sí, un fracaso.
